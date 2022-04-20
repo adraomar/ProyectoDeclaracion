@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contenedor {
+    background-color: cadetblue;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p {
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button {
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#btnYes {
+    transform: translate(-100%, 0);
+}
+
+#btnNo {
+    position: absolute;
+}
